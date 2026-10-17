@@ -1,0 +1,23 @@
+# Desktop and common utilities for first bootable ISO
+live-boot
+live-config
+live-config-systemd
+task-xfce-desktop
+network-manager
+network-manager-gnome
+firefox-esr
+mousepad
+xfce4-terminal
+xfce4-screenshooter
+xfce4-goodies
+gparted
+sudo
+curl
+wget
+git
+nano
+vim-tiny
+neofetch
+fonts-dejavu
+fonts-liberation
+plymouth
